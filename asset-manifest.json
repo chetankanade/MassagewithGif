@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MassagewithGif/static/css/main.3eb08cfc.css",
+    "main.js": "/MassagewithGif/static/js/main.7c70d22f.js",
+    "static/js/787.63e47474.chunk.js": "/MassagewithGif/static/js/787.63e47474.chunk.js",
+    "index.html": "/MassagewithGif/index.html",
+    "main.3eb08cfc.css.map": "/MassagewithGif/static/css/main.3eb08cfc.css.map",
+    "main.7c70d22f.js.map": "/MassagewithGif/static/js/main.7c70d22f.js.map",
+    "787.63e47474.chunk.js.map": "/MassagewithGif/static/js/787.63e47474.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3eb08cfc.css",
+    "static/js/main.7c70d22f.js"
+  ]
+}
